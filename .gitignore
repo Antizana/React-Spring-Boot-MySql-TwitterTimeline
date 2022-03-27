@@ -3,6 +3,9 @@ target/
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
 !**/src/test/**/target/
+src/main/resources/application.properties
+frontend/node_modules
+frontend/src/.env
 
 ### STS ###
 .apt_generated
